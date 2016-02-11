@@ -1,1 +1,14 @@
 /* custom syle sheet */
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+p:first-letter {
+  color: brown;
+	font-size: 140%;
+	font-family: 'Raleway', cursive;
+	font-weight: bold;
+}
+h1:hover {
+  letter-spacing: 1px;
+  color: orange;
+  font-weight: 600;
+  text-decoration: underline;
+}
