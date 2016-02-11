@@ -11,4 +11,5 @@ h1:hover {
   color: orange;
   font-weight: 600;
   text-decoration: underline;
+  transition: 0.8sec;
 }
